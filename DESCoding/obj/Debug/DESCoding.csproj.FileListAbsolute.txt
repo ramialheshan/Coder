@@ -1,0 +1,8 @@
+D:\Рабочие файлы\Проекты\Пробные проекты\DESCoding\bin\Debug\DESCoding.exe
+D:\Рабочие файлы\Проекты\Пробные проекты\DESCoding\bin\Debug\DESCoding.pdb
+D:\Рабочие файлы\Проекты\Пробные проекты\DESCoding\obj\Debug\ResolveAssemblyReference.cache
+D:\Рабочие файлы\Проекты\Пробные проекты\DESCoding\obj\Debug\desCoding.Form1.resources
+D:\Рабочие файлы\Проекты\Пробные проекты\DESCoding\obj\Debug\desCoding.Properties.Resources.resources
+D:\Рабочие файлы\Проекты\Пробные проекты\DESCoding\obj\Debug\DESCoding.csproj.GenerateResource.Cache
+D:\Рабочие файлы\Проекты\Пробные проекты\DESCoding\obj\Debug\DESCoding.exe
+D:\Рабочие файлы\Проекты\Пробные проекты\DESCoding\obj\Debug\DESCoding.pdb
